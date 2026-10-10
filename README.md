@@ -87,7 +87,7 @@
   </tr>
 </table>
 
-Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors-Beta-Install)
+Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors-Beta-Install/releases/tag/GalacticNeighbors)
 
 
 
