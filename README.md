@@ -89,6 +89,45 @@
 
 Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors-Beta-Install/releases/tag/GalacticNeighbors)
 
+<details>
+  <summary>Install Guide</summary>
+  
+  # The files should be in your downloads folder.
+  <img width="633" height="202" alt="Screenshot 2026-10-10 163415" src="https://github.com/user-attachments/assets/69e5c4e2-44fa-4b18-968f-d889e07bc1e6" />
+  
+  ### After this, right click and click extract all for the system of choice and the Galactic Neighbors folder. 
+
+  # After extracting, it should bring you to a new file explorer window. Now drag the GalacticNeighbors folder into Gamedata. Make sure there is only 1 GalacticNeighbors folder or the mod WILL NOT work
+
+  <img width="732" height="405" alt="Screenshot 2026-10-10 163813" src="https://github.com/user-attachments/assets/5a2d6afa-6b3c-49cc-ac8c-3227d81da0b8" />
+
+> Note that my game instance says SOL-Realistic, but at this time the mod is not able to be scaled to 10x.
+  
+# Now move the extracted System folder into Systems.
+
+<img width="975" height="381" alt="Screenshot 2026-10-10 164924" src="https://github.com/user-attachments/assets/f6aeffc1-07f9-427a-8854-9297effa0388" />
+
+# After that, you should be done. Your file structure should look like this:
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+  <img <img width="703" height="422" alt="Screenshot 2026-10-10 165258" src="https://github.com/user-attachments/assets/66b59589-e151-43ea-af42-3ca76a6e0245" />
+      <br>
+       The core file structure
+    </td>
+    <td align="center" width="50%">
+     </div><img width="928" height="380" alt="Screenshot 2026-10-10 164943" src="https://github.com/user-attachments/assets/b06e4a36-94ea-4f5f-b98f-268d97e7bc19" />
+      <br>
+      The alpha kerbonis file structure.
+    </td>
+  </tr>
+</table>
+
+
+</details>
+
+
 
 
                                                                                                                                             
