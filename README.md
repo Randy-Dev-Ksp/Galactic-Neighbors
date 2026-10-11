@@ -69,20 +69,6 @@ I've always been upset and disappointed about not finding life in different plan
 
 > Note that Baj is broken. You will explode while trying to land on it.
 
-# What else does this mod provide? - The little details
-
-### This mod provides ambient sounds like: 
-
-- Life/Insect Ambient noises on Sage
-- The raging sound of a dust storm on Harpy
-- As well as sandy/windy sounds on most planets.
-- Ocean ambience coming soon
-
-### This mod also provides 
-
-- Well, I don't know anything else to put here, more little things coming soon I guess
-
-
 <table>
   <tr>
     <td align="center" width="50%">
