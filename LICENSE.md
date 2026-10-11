@@ -22,4 +22,4 @@ GalacticNeighbors/Systems/AlphaKerbonis/Clouds/LargeAurora.png
 GalacticNeighbors/Systems/AlphaKerbonis/Clouds/LargeAurora2.png
 Are NOT mine and are modified textures from Astronomers Visual Pack. 
 
-These "Exeptions" are not my original work and rights go to the original creators. 
+These "Exceptions" are not my original work and rights go to the original creators. 
