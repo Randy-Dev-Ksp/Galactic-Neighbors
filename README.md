@@ -101,6 +101,7 @@ I've always been upset and disappointed about not finding life in different plan
 
 Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors-Beta-Install/releases/tag/GalacticNeighbors)
 
+
 <details>
   <summary>Install Guide</summary>
   
@@ -135,9 +136,24 @@ Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbo
     </td>
   </tr>
 </table>
-
-
 </details>
+
+# Mod Dependencies (DO NOT MISS THIS STEP)
+
+## Install all of these dependencies and recommendations for Galactic Neighbors to work correctly.
+
+### Bare bones dependencies
+
+- Kopernicus Expansion Continued
+- Module manager
+- Scatterer -For correct atmosphere characteristics
+
+### Highly recommended, please install for full experience 
+
+- Singularity
+- EVE Redux
+- Blackrack's Volumetric Clouds V5
+
 
 # Want to use assets from this mod? 
 ### For non commercial purposes use this attribution 
