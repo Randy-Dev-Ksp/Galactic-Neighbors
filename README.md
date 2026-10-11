@@ -6,8 +6,20 @@
 
 > View from Eur
 
+# My view on Ksp modding
 
-# Great for modern, modded ksp. 
+In my opinion, the Ksp modding community has made Ksp a much more improved, and better game.
+Mods such as Scatterer, EVE, Blackrack's Volumetric Clouds, Parallax, Kopernicus, Singularity, and the Kcalbeloh System have arguably made ksp a much better game. I think that by playing a role in the modding community myself, I can make the Ksp community just a bit better. 
+
+# Overview on the mod
+
+Galactic Neighbors is a mod for Kerbal Space Program that expands the limits of the Kerbol system. 
+So far it's in its beta phase, so it only has around 9 planets and 6 moons. Despite the low count of bodies, the mod is still packed with interesting and cool places to visit! Alpha Kerbonis and Beta Kerbonis are a pair of red dwarfs, with a compact layout of planets. 
+There are some especially interesting and unique places, like Harpy. A planet covered in an eternal global dust storm. Or Eur, a moon with rings that orbits a pair of gas giants, making for a stunning scene. 
+In each system, I'm also sure to include a planet or two that is semi-habitable. I do this because, well that's my jam. 
+I've always been upset and disappointed about not finding life in different planet packs, but with Galactic Neighbors, you'll be able to find a comfortable place for your kerbals to live (Probably eternally knowing the ksp community) in every star pack. 
+
+# What this mod supports visually 
 
 - Vol clouds support
 - Parallax support
@@ -57,6 +69,20 @@
 
 > Note that Baj is broken. You will explode while trying to land on it.
 
+# What else does this mod provide? - The little details
+
+### This mod provides ambient sounds like: 
+
+- Life/Insect Ambient noises on Sage
+- The raging sound of a dust storm on Harpy
+- As well as sandy/windy sounds on most planets.
+- Ocean ambience coming soon
+
+### This mod also provides 
+
+- Well, I don't know anything else to put here, more little things coming soon I guess
+
+
 <table>
   <tr>
     <td align="center" width="50%">
@@ -75,7 +101,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
- <img width="1917" height="1077" alt="Screenshot 2026-10-10 143745" src="https://github.com/user-attachments/assets/e16e14d8-9fc3-4ebe-8ed8-8b42e2f1b6c2" />
+ <img width="1847" height="1077" alt="Screenshot 2026-10-10 143745" src="https://github.com/user-attachments/assets/e16e14d8-9fc3-4ebe-8ed8-8b42e2f1b6c2" />
       <br>
        Aurae and its methane and ethane clouds.
     </td>
@@ -126,6 +152,12 @@ Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbo
 
 
 </details>
+
+
+
+
+
+
 
 
 
