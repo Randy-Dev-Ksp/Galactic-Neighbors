@@ -153,6 +153,28 @@ Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbo
 
 </details>
 
+# Want to use assets from this mod? 
+### For non commercial purposes use this attribution 
+Galactic Neighbors Licensed under CC BY-NC-ND 4.0 Original creator: [robloc_rat] [https://github.com/Randy-Dev-Ksp/Galactic-Neighbors-BETA?tab=License-1-ov-file]
+
+# Licensing
+Galactic Neighbors is licensed under CC BY-NC-ND 4.0 
+<details>
+<summary>Learn more</summary>
+  Galactic Neighbors is licensed under CC BY-NC-ND 4.0. The CC BY-NC-ND 4.0 Makes sure that you do not release any edited or unedited version of the mod without permission from robloc_rat. You also may not redistribute or present Galactic Neighbors as your own. However you may share or make content about Galactic Neighbors, as well as make private non-commercial modifications to Galactic Neighbors. 
+
+
+</details>
+
+[Discord Server Invite ](https://discord.gg/bMYw7xgF3)
+
+
+
+
+
+
+
+
 
 
 
