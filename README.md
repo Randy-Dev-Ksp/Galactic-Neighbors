@@ -147,7 +147,7 @@ Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbo
 - Kopernicus Expansion Continued
 - Module manager
 - Scatterer -For correct atmosphere characteristics
-
+- Vertex Mitchell-Netravali Filtered Heightmap [Here](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)
 ### Highly recommended, please install for full experience 
 
 - Singularity
