@@ -101,6 +101,17 @@ I've always been upset and disappointed about not finding life in different plan
 
 Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors-Beta-Install/releases/tag/GalacticNeighbors)
 
+> Only go here if you want to install the beta versions, otherwise the complete versions of the systems will be on this page, on releases.
+
+<details>
+  <summary>Learn more about the beta releases</summary>
+  I like to give the beta-releases of the systems a separate download page because the beta versions will contain more bugs, inconsistencies, errors, and that whole thing.
+  Although the beta versions are "worse" they are always fully playable. Sometimes the user experience will be worse, and sometimes there will be no noticeable difference between the two beta and official releases.
+
+  Just to be clear, the beta versions are completely playable, and may only come with some bugs. 
+  
+  
+</details>
 
 <details>
   <summary>Install Guide</summary>
