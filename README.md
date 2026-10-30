@@ -49,7 +49,7 @@ I've always been upset and disappointed about not finding life in different plan
 
 # What's included in this mod? 
 
-### So far, Galactic Neighbors is in its beta phase. It has 2 stars, 9 planets, and 6 moons. 
+### 2 separate star systems, 4 stars, and 1 black hole!
 
 > All bodies (Except gas giants) Feature full parallax, scatterer, and Volumetric clouds support.
 
@@ -57,6 +57,9 @@ I've always been upset and disappointed about not finding life in different plan
 |------|
 |Alpha Kerbonis|
 |Beta Kerbonis|
+|Abyss|
+|Di|
+|Mi|
 
 |Alpha Kerbonis|Moons   |Beta Kerbonis| Moons|
 |--------------|--------|-------------|------|
@@ -66,6 +69,14 @@ I've always been upset and disappointed about not finding life in different plan
 |Erion         |Hop     |
 |Harpy         |Arrow   |
 |Aurae         |Baj     |
+
+> There are too many planets here in Abyss so imma just leave em out
+
+|Abyss      |
+|-----------|
+|Di         |
+|Mi         | 
+|-----------|
 
 > Note that Baj is broken. You will explode while trying to land on it.
 
