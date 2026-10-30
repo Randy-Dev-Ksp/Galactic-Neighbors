@@ -99,20 +99,7 @@ I've always been upset and disappointed about not finding life in different plan
   </tr>
 </table>
 
-Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors-Beta-Install/releases/tag/GalacticNeighbors)
-
-> Only go here if you want to install the beta versions, otherwise the complete versions of the systems will be on this page, on releases.
-
-<details>
-  <summary>Learn more about the beta releases</summary>
-  I like to give the beta-releases of the systems a separate download page because the beta versions will contain more bugs, inconsistencies, errors, and that whole thing.
-  Although the beta versions are "worse" they are always fully playable. Sometimes the user experience will be worse, and sometimes there will be no noticeable difference between the two beta and official releases.
-
-  Just to be clear, the beta versions are completely playable, and may only come with some bugs. 
-  
-  To clear up another thing, I will usually only release a system as beta if it is less than 50% complete in terms of planetary bodies. 
-  
-</details>
+Download Galactic Neighbors [here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors/releases/tag/Released)
 
 <details>
   <summary>Install Guide</summary>
@@ -154,7 +141,7 @@ Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbo
 
 ## Install all of these dependencies and recommendations for Galactic Neighbors to work correctly.
 
-### Bare bones dependencies
+### Required dependencies
 
 - Kopernicus Expansion Continued
 - Module manager
@@ -181,6 +168,21 @@ Galactic Neighbors is licensed under CC BY-NC-ND 4.0
 </details>
 
 [Discord Server Invite ](https://discord.gg/bMYw7xgF3)
+
+Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors-Beta-Install/releases/tag/GalacticNeighbors)
+
+> Only go here if you want to install the beta versions, otherwise the complete versions of the systems will be on this page, on releases.
+
+<details>
+  <summary>Learn more about the beta releases</summary>
+  I like to give the beta-releases of the systems a separate download page because the beta versions will contain more bugs, inconsistencies, errors, and that whole thing.
+  Although the beta versions are "worse" they are always fully playable. Sometimes the user experience will be worse, and sometimes there will be no noticeable difference between the two beta and official releases.
+
+  Just to be clear, the beta versions are completely playable, and may only come with some bugs. 
+  
+  To clear up another thing, I will usually only release a system as beta if it is less than 50% complete in terms of planetary bodies. 
+  
+</details>
 
 
 
