@@ -110,6 +110,7 @@ Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbo
 
   Just to be clear, the beta versions are completely playable, and may only come with some bugs. 
   
+  To clear up another thing, I will usually only release a system as beta if it is less than 50% complete in terms of planetary bodies. 
   
 </details>
 
