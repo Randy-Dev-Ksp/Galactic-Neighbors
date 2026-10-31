@@ -15,12 +15,6 @@ GalacticNeighbors/NeatFeatures/Sunflare/SunflareTextures/SunflareR.png
 GalacticNeighbors/NeatFeatures/Sunflare/SunflareTextures/SunSpikesR.png
 Are NOT mine and belong to Kabrams Sun Flare's Pack For Scatterer (https://spacedock.info/mod/1843/Kabrams%20Sun%20Flare's%20Pack%20for%20Scatterer.)
 
-**Ownership and licensing:** I do not claim ownership of these third-party assets. All applicable rights remain with their respective copyright holders. These assets are excluded from any license I apply to my original work, and their use is subject to the applicable permissions and terms of their respective creators.
-
-Original asset source: https://spacedock.info/mod/1843/Kabrams%20Sun%20Flare%27s%20Pack%20for%20Scatterer/
-
-Kcalbeloh System: https://github.com/jcyuan06/Kcalbeloh-System
-
 # The textures here: 
 GalacticNeighbors/Systems/AlphaKerbonis/Clouds/AuroraStrong2 
 GalacticNeighbors/Systems/AlphaKerbonis/Clouds/AuroraStrong3
@@ -28,5 +22,5 @@ GalacticNeighbors/Systems/AlphaKerbonis/Clouds/LargeAurora.png
 GalacticNeighbors/Systems/AlphaKerbonis/Clouds/LargeAurora2.png
 Are NOT mine and are modified textures from Astronomers Visual Pack. 
 
+**Ownership and licensing:** I do not claim ownership of these third-party assets. All applicable rights remain with their respective copyright holders. These assets are excluded from any license I apply to my original work, and their use is subject to the applicable permissions and terms of their respective creators.
 
-These "Exeptions" are not my original work and rights go to the original creators. 
