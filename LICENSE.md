@@ -10,6 +10,20 @@ By downloading the mod you agree to this license, and will not redistribute any 
 
 ## EXCEPTIONS:
 
+# The sounds here: 
+
+Nature in Cordoba, Argentina by santiboadaj -- https://freesound.org/s/708047/ -- License: Attribution 4.0
+
+oceanwavescrushing.wav by Luftrum -- https://freesound.org/s/48412/ -- License: Attribution 4.0
+
+Ambience, Day Wildlife, A.wav by InspectorJ -- https://freesound.org/s/398980/ -- License: Attribution 4.0
+
+Ambience, Night Wildlife, A.wav by InspectorJ -- https://freesound.org/s/352514/ -- License: Attribution 4.0
+
+Inside a Tornado.wav by RogerBoyX69 -- https://freesound.org/s/338721/ -- License: Attribution 4.0
+
+icy snow in a forest.wav by tim.kahn -- https://freesound.org/s/178154/ -- License: Attribution 4.0
+
 # The textures here: 
 GalacticNeighbors/NeatFeatures/Sunflare/SunflareTextures/SunflareR.png
 GalacticNeighbors/NeatFeatures/Sunflare/SunflareTextures/SunSpikesR.png
