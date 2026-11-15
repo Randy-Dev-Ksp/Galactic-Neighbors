@@ -29,23 +29,20 @@ I've always been upset and disappointed about not finding life in different plan
 - Cloud and Weather layers
 - Ambient sounds
 
-### support for Blackrack's Volumetric Clouds v5
-
-<img width="630" height="360" alt="Screenshot 2026-10-10 125459" src="https://github.com/user-attachments/assets/7dfb2ee7-faea-4d58-89f7-67e0f9a1350b" />
-
-> Bahlite's clouds 
-
-
-
-### Parallax Continued support
-<img width="630" height="360" alt="Screenshot 2026-10-10 132340" src="https://github.com/user-attachments/assets/d95b1891-3bc8-4ab3-93fd-d5f289b05e35" />
-
-> A sandy crater lake from Oasis
-
-### Scatterer support
-<img width="548" height="474" alt="Screenshot 2026-10-10 130025" src="https://github.com/user-attachments/assets/44b81d22-14a9-47d7-9bad-d7ef35abb0e2" />
-
-> Atmosphere example from Bep
+<table>
+  <tr>
+    <td align="center" width="50%">
+    <img width="1919" height="1079" alt="Screenshot 2026-11-11 145338" src="https://github.com/user-attachments/assets/9379084c-93e3-4403-a221-5c3dcea22aca" />
+      <br>
+       An example of scatterer and parallax.
+    </td>
+    <td align="center" width="50%">
+    <img width="1919" height="1079" alt="Screenshot 2026-11-14 184549" src="https://github.com/user-attachments/assets/ae539bb6-6a2e-4656-9eab-53325b8a67bc" />
+      <br>
+      An example of volumetric clouds support, as well as stellar effects support.
+    </td>
+  </tr>
+</table>
 
 # What's included in this mod? 
 
@@ -93,42 +90,14 @@ I've always been upset and disappointed about not finding life in different plan
 
 > There are too many planets here in Abyss so imma just leave em out
 
-# In-Dev and Planned systems 
+## In-Dev and Planned systems 
 
 - Odo expansion, a Kerbol expansion that is similar to the real Pluto system in our solar system.
 - Corpse system, a city-sized pulsar with dead planets.
 - Menoetius system, a star in its red supergiant phase, some planets here will be a hellscape.
 - Zeno system, a white dwarf system, with planets farther out, due to the closer ones being consumed. 
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-  <img width="1919" height="1079" alt="Screenshot 2026-10-10 143006" src="https://github.com/user-attachments/assets/3a754893-27b0-46f8-ba83-c511bca81324" />
-      <br>
-       A stunning view of the brown planet, Sage.
-    </td>
-    <td align="center" width="50%">
-     </div><img width="1919" height="1079" alt="Screenshot 2026-10-08 204711" src="https://github.com/user-attachments/assets/e1625104-9d99-4cce-a0c8-f483a04ae755" />
-      <br>
-      Bahlite in all of its glory.
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
- <img width="1847" height="1077" alt="Screenshot 2026-10-10 143745" src="https://github.com/user-attachments/assets/e16e14d8-9fc3-4ebe-8ed8-8b42e2f1b6c2" />
-      <br>
-       Aurae and its methane and ethane clouds.
-    </td>
-    <td align="center" width="50%">
-     </div><img width="1919" height="1079" alt="Screenshot 2026-10-10 144015" src="https://github.com/user-attachments/assets/0a7f9457-ba1c-4f5f-9376-aa11e735d31c" />
-      <br>
-      Eur's rings, auroras, and Dol and Mraw in the distance.
-    </td>
-  </tr>
-</table>
+# Install guides, Licensing, and Image gallery
 
 Download Galactic Neighbors [here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors/releases/tag/Released)
 
@@ -193,27 +162,106 @@ Galactic Neighbors Licensed under CC BY-NC-ND 4.0 Original creator: [robloc_rat]
 Galactic Neighbors is licensed under CC BY-NC-ND 4.0 
 <details>
 <summary>Learn more</summary>
-  Galactic Neighbors is licensed under CC BY-NC-ND 4.0. The CC BY-NC-ND 4.0 Makes sure that you do not release any edited or unedited version of the mod without permission from robloc_rat. You also may not redistribute or present Galactic Neighbors as your own. However you may share or make content about Galactic Neighbors, as well as make private non-commercial modifications to Galactic Neighbors. 
+  Galactic Neighbors is licensed under CC BY-NC-ND 4.0. The CC BY-NC-ND 4.0 Makes sure that you do not release any edited or unedited version of the mod without permission from myself, robloc_rat. You also may not redistribute or present Galactic Neighbors as your own. However you may share or make content about Galactic Neighbors, as well as make private non-commercial modifications to Galactic Neighbors. 
 
 
 </details>
 
-[Discord Server Invite ](https://discord.gg/bMYw7xgF3)
 
-Beta Installation page: [Here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors-Beta-Install/releases/tag/GalacticNeighbors)
+# Gallery 
 
-> Only go here if you want to install the beta versions, otherwise the complete versions of the systems will be on this page, on releases.
+<table>
+  <tr>
+    <td align="center" width="50%">
+  <img width="1919" height="1079" alt="Screenshot 2026-10-10 143006" src="https://github.com/user-attachments/assets/3a754893-27b0-46f8-ba83-c511bca81324" />
+      <br>
+       A stunning view of the brown planet, Sage.
+    </td>
+    <td align="center" width="50%">
+     </div><img width="1919" height="1079" alt="Screenshot 2026-10-08 204711" src="https://github.com/user-attachments/assets/e1625104-9d99-4cce-a0c8-f483a04ae755" />
+      <br>
+      Bahlite in all of its glory.
+    </td>
+  </tr>
+</table>
 
-<details>
-  <summary>Learn more about the beta releases</summary>
-  I like to give the beta-releases of the systems a separate download page because the beta versions will contain more bugs, inconsistencies, errors, and that whole thing.
-  Although the beta versions are "worse" they are always fully playable. Sometimes the user experience will be worse, and sometimes there will be no noticeable difference between the two beta and official releases.
+<table>
+  <tr>
+    <td align="center" width="50%">
+ <img width="1847" height="1077" alt="Screenshot 2026-10-10 143745" src="https://github.com/user-attachments/assets/e16e14d8-9fc3-4ebe-8ed8-8b42e2f1b6c2" />
+      <br>
+       Aurae and its methane and ethane clouds.
+    </td>
+    <td align="center" width="50%">
+     </div><img width="1919" height="1079" alt="Screenshot 2026-10-10 144015" src="https://github.com/user-attachments/assets/0a7f9457-ba1c-4f5f-9376-aa11e735d31c" />
+      <br>
+      Eur's rings, auroras, and Dol and Mraw in the distance.
+    </td>
+  </tr>
+</table>
 
-  Just to be clear, the beta versions are completely playable, and may only come with some bugs. 
-  
-  To clear up another thing, I will usually only release a system as beta if it is less than 50% complete in terms of planetary bodies. 
-  
-</details>
+<table>
+  <tr>
+    <td align="center" width="50%">
+  <img width="1919" height="1079" alt="Screenshot 2026-11-11 195332" src="https://github.com/user-attachments/assets/35cd83d7-fae5-4f54-91c5-fb4559a0669a" />
+      <br>
+       A beautiful view of the planet whispen.
+    </td>
+    <td align="center" width="50%">
+      <img width="1909" height="1070" alt="Screenshot 2026-11-08 111857" src="https://github.com/user-attachments/assets/33dc052b-99f5-40d5-aac7-ec655c284a45" />
+      <br>
+      Trawrel, A planet destroyed by nuclear technology.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img width="1919" height="1079" alt="Screenshot 2026-11-07 165255" src="https://github.com/user-attachments/assets/a40ac199-a494-4a30-9a24-433e0dad535e" />
+      <br>
+       Dor, the hot version of kerbin.
+    </td>
+    <td align="center" width="50%">
+    <img width="804" height="707" alt="Screenshot 2026-11-07 164658" src="https://github.com/user-attachments/assets/6173e0fa-5b29-4aaa-b094-754e81a5f030" />
+      <br>
+      Thane and Onea.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="50%">
+<img width="1919" height="1079" alt="Screenshot 2026-10-28 190024" src="https://github.com/user-attachments/assets/7aed2c30-be22-4b4c-83be-a5ecb1f26177" />
+      <br>
+       Tro, a planet covered in a liquid oxygen ocean.
+    </td>
+    <td align="center" width="50%">
+<img width="740" height="727" alt="Screenshot 2026-10-28 161551" src="https://github.com/user-attachments/assets/f21f22e6-9df1-41f4-9a3d-aab79ee34ee8" />
+      <br>
+        Abyss, a hot black hole.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+<img width="713" height="717" alt="Screenshot 2026-11-02 204247" src="https://github.com/user-attachments/assets/d877e404-e3b6-4667-8306-fb830f149d33" />
+      <br>
+       Sentol.
+    </td>
+    <td align="center" width="50%">
+
+<img width="1919" height="1057" alt="Screenshot 2026-11-07 194905" src="https://github.com/user-attachments/assets/9abbf622-598a-4a6d-a770-7084075eb603" />
+      <br>
+      Reltor.
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
