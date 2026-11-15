@@ -29,3 +29,20 @@ Oasis is also interesting because of its blood red atmosphere. We don't know why
 > A picture of Oasis's crater lakes. 
 
 </details>
+
+# Other screenshots
+
+<img width="1919" height="1079" alt="Screenshot 2026-11-11 145338" src="https://github.com/user-attachments/assets/d3c1e3e5-d8c3-4abc-88ee-e85075f3ceac" />
+
+<img width="1918" height="1077" alt="Screenshot 2026-11-14 184853" src="https://github.com/user-attachments/assets/a79b6f3f-b84f-46a8-a80d-9ce26f3a7659" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-11-14 184549" src="https://github.com/user-attachments/assets/fb9495ba-ee96-4792-94c6-eadf22809bdf" />
+
+<img width="1903" height="1027" alt="Screenshot 2026-11-09 211805" src="https://github.com/user-attachments/assets/940a8a44-96f1-4608-9d64-668b6ebe9b2a" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-11-02 194857" src="https://github.com/user-attachments/assets/774f38c8-f645-4571-b35e-e01d3f3c6208" />
+
+<img width="1916" height="1075" alt="Screenshot 2026-11-02 183848" src="https://github.com/user-attachments/assets/d6aaccd8-9555-4c51-912f-cba41faee6c2" />
+
+
+
