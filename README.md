@@ -25,7 +25,7 @@ I've always been upset and disappointed about not finding life in different plan
 - Parallax support
 - Scatterer atmosphere, ocean and sunflare support
 - Detailed planet and cloud textures
-- Auroras
+- [Stellar Effects support](https://github.com/KerbalMissile/StellarEffects)
 - Cloud and Weather layers
 - Ambient sounds
 
@@ -49,17 +49,17 @@ I've always been upset and disappointed about not finding life in different plan
 
 # What's included in this mod? 
 
-### 2 separate star systems, 4 stars, and 1 black hole!
+### 3 separate star systems, including 5 stars, and 1 black hole!
+
+### Galactic Neighbors also has 40+ planets + Moons!
 
 > All bodies (Except gas giants) Feature full parallax, scatterer, and Volumetric clouds support.
 
-|Stars|
+|Star Systems|
 |------|
 |Alpha Kerbonis|
-|Beta Kerbonis|
 |Abyss|
-|Di|
-|Mi|
+|Kerboltis-1|
 
 |Alpha Kerbonis|Moons   |Beta Kerbonis| Moons|
 |--------------|--------|-------------|------|
@@ -68,9 +68,22 @@ I've always been upset and disappointed about not finding life in different plan
 |Sage          |None    |
 |Erion         |Hop     |
 |Harpy         |Arrow   |
-|Aurae         |Baj     |
+|Aurae         |None    |
 
-> There are too many planets here in Abyss so imma just leave em out
+|Kerboltis-1|Moons    |
+|-----------|---------|
+|Goliath    |None     |
+|Maelert    |None     |
+|Whispen    |Gibb     |
+|Sentol     |None     |
+|Trawrel    |Korpil and Resori|
+|Taljyrr    |Geran    |
+|Himberr    |Titel    |   
+|Reltor     |None     |       
+|Luto       |Imbi     |
+
+> Imbi, Resori, Geran, and Korpil are still in progress, but it shouldn't matter too much as of now.
+> Also, Please install Kerboltis-1 it is the BEST system out now.
 
 |Abyss      |
 |-----------|
@@ -78,7 +91,14 @@ I've always been upset and disappointed about not finding life in different plan
 |Mi         | 
 |-----------|
 
-> Note that Baj is broken. You will explode while trying to land on it.
+> There are too many planets here in Abyss so imma just leave em out
+
+# In-Dev and Planned systems 
+
+- Odo expansion, a Kerbol expansion that is similar to the real Pluto system in our solar system.
+- Corpse system, a city-sized pulsar with dead planets.
+- Menoetius system, a star in its red supergiant phase, some planets here will be a hellscape.
+- Zeno system, a white dwarf system, with planets farther out, due to the closer ones being consumed. 
 
 <table>
   <tr>
