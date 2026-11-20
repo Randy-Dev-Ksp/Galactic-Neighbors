@@ -59,46 +59,21 @@ Also, to note, you might see a lot of red dwarf systems made by me, as they are 
 |Alpha Kerbonis|Luyten 726-8|
 |Abyss|M87*                |
 |Kerboltis-1|Trappist-1|
+|Kerbaran A|Aldebaran A|
 
-|Alpha Kerbonis|Moons   |Beta Kerbonis| Moons|
-|--------------|--------|-------------|------|
-|Gale          |Breeze  |Dol and Mraw |Eur and Bep|
-|Oasis         |None    |Bahlite      |Ring system|
-|Sage          |None    |
-|Erion         |Hop     |
-|Harpy         |Arrow   |
-|Aurae         |None    |
+|Binaries|Counterparts|
+|Abyss   |Di and Mi|
+|Alpha Kerbonis|Beta Kerbonis|
+|Kerbaran A| Kerberan B|
 
-|Kerboltis-1|Moons    |
-|-----------|---------|
-|Goliath    |None     |
-|Maelert    |None     |
-|Whispen    |Gibb     |
-|Sentol     |None     |
-|Trawrel    |Korpil and Resori|
-|Taljyrr    |Geran    |
-|Himberr    |Titel    |   
-|Reltor     |None     |       
-|Luto       |Imbi     |
-
-> Imbi, Resori, Geran, and Korpil are still in progress, but it shouldn't matter too much as of now.
 > Also, Please install Kerboltis-1 it is the BEST system out now.
 
-|Abyss      |
-|-----------|
-|Di         |
-|Mi         | 
-|-----------|
-
-> There are too many planets here in Abyss so imma just leave em out
-
-## In-Dev and Planned systems 
+## In-Dev and Planned systems (Not in order)
 
 - Odo expansion, a Kerbol expansion that is similar to the real Pluto system in our solar system.
 - Corpse system, a city-sized pulsar with dead planets.
-- Menoetius system, a star in its red supergiant phase, some planets here will be a hellscape.
+- Kerberan system, a star in its red giant phase, some planets here will be a hellscape.
 - Zeno system, a white dwarf system, with planets farther out, due to the closer ones being consumed.
-- 
 
 # Install guides, Licensing, and Image gallery
 
