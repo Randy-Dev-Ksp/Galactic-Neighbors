@@ -52,11 +52,13 @@ I've always been upset and disappointed about not finding life in different plan
 
 > All bodies (Except gas giants) Feature full parallax, scatterer, and Volumetric clouds support.
 
-|Star Systems|
-|------|
-|Alpha Kerbonis|
-|Abyss|
-|Kerboltis-1|
+Also, to note, you might see a lot of red dwarf systems made by me, as they are my absolute favorite to make. 
+
+|Star Systems|Real World Counterpart|
+|------|-----------------|
+|Alpha Kerbonis|Luyten 726-8|
+|Abyss|M87*                |
+|Kerboltis-1|Trappist-1|
 
 |Alpha Kerbonis|Moons   |Beta Kerbonis| Moons|
 |--------------|--------|-------------|------|
@@ -95,7 +97,8 @@ I've always been upset and disappointed about not finding life in different plan
 - Odo expansion, a Kerbol expansion that is similar to the real Pluto system in our solar system.
 - Corpse system, a city-sized pulsar with dead planets.
 - Menoetius system, a star in its red supergiant phase, some planets here will be a hellscape.
-- Zeno system, a white dwarf system, with planets farther out, due to the closer ones being consumed. 
+- Zeno system, a white dwarf system, with planets farther out, due to the closer ones being consumed.
+- 
 
 # Install guides, Licensing, and Image gallery
 
@@ -239,7 +242,7 @@ Galactic Neighbors is licensed under CC BY-NC-ND 4.0
     <td align="center" width="50%">
 <img width="740" height="727" alt="Screenshot 2026-10-28 161551" src="https://github.com/user-attachments/assets/f21f22e6-9df1-41f4-9a3d-aab79ee34ee8" />
       <br>
-        Abyss, a hot black hole.
+        Abyss, a hot black hole
     </td>
   </tr>
 </table>
@@ -247,7 +250,7 @@ Galactic Neighbors is licensed under CC BY-NC-ND 4.0
 <table>
   <tr>
     <td align="center" width="50%">
-<img width="713" height="717" alt="Screenshot 2026-11-02 204247" src="https://github.com/user-attachments/assets/d877e404-e3b6-4667-8306-fb830f149d33" />
+<img width="1915" height="1078" alt="Screenshot 2026-11-19 155607" src="https://github.com/user-attachments/assets/a2586c21-747c-435b-83ae-ae450a49d068" />
       <br>
        Sentol.
     </td>
