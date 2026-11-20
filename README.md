@@ -62,6 +62,7 @@ Also, to note, you might see a lot of red dwarf systems made by me, as they are 
 |Kerbaran A|Aldebaran A|
 
 |Binaries|Counterparts|
+|--------|------------|
 |Abyss   |Di and Mi|
 |Alpha Kerbonis|Beta Kerbonis|
 |Kerbaran A| Kerberan B|
