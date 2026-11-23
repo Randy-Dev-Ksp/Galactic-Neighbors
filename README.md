@@ -78,7 +78,7 @@ Also, to note, you might see a lot of red dwarf systems made by me, as they are 
 
 # Install guides, Licensing, and Image gallery
 
-Download Galactic Neighbors [here](https://github.com/Randy-Dev-Ksp/Galactic-Neighbors/releases/tag/Released)
+### For those who haven't installed on github before, the installs are releases on the right half of the screen.
 
 <details>
   <summary>Install Guide</summary>
